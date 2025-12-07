@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1765070788 source:c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\main.cpp
+	"SistemaHospitalar.hpp"
+
+1765070554 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\sistemahospitalar.hpp
+	<vector>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<map>
+	"Paciente.hpp"
+	"Medico.hpp"
+	"ConsultaNormal.hpp"
+	"Emergencia.hpp"
+	"Acompanhamento.hpp"
+
+1765070271 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\paciente.hpp
+	"Pessoa.hpp"
+	"ProntuarioMedico.hpp"
+
+1765070137 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\pessoa.hpp
+	<string>
+	<iostream>
+
+1765070233 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\prontuariomedico.hpp
+	<vector>
+	"Registro.hpp"
+
+1765070195 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\registro.hpp
+	<string>
+	<iostream>
+
+1765070304 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\medico.hpp
+	"Pessoa.hpp"
+
+1765070370 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\consultanormal.hpp
+	"Consulta.hpp"
+
+1765070330 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\consulta.hpp
+	<string>
+	<iostream>
+	"Paciente.hpp"
+	"Medico.hpp"
+
+1765070398 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\emergencia.hpp
+	"Consulta.hpp"
+
+1765070433 c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\acompanhamento.hpp
+	"Consulta.hpp"
+
+1765070583 source:c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\modelos.cpp
+	"Paciente.hpp"
+	"Medico.hpp"
+	"Consulta.hpp"
+
+1765072430 source:c:\users\djata\desktop\sistemahospitalarpoo\sistemahospitalarpoo\sistemahospitalar.cpp
+	"SistemaHospitalar.hpp"
+
